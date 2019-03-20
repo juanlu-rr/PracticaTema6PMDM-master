@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Práctica 6</string>
+    <string name="textNotas" translatable="false" />
+    <string name="blocNotas">Bloc de notas</string>
+    <string name="personas">Personas</string>
+    <string name="llamar">Llamar</string>
+    <string name="correo">Correo</string>
+    <string name="editar">Editar</string>
+    <string name="EditarPersonas">Editar personas</string>
+    <string name="textViewEditar">Pulse sobre una imagen para seleccionarla</string>
+    <string name="textViewDatos">A continuación introduzca los datos:</string>
+    <string name="introducir_correo">Introduzca aquí el correo</string>
+    <string name="introducir_telefono">Introduzca aquí el teléfono</string>
+    <string name="act_datos">Actualizar datos</string>
+    <string name="confirmacionBoton">Se ha insertado los datos correctamente</string>
+</resources>

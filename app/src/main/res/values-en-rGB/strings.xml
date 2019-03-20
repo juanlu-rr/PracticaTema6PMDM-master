@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PracticaTema6PMDM</string>
+    <string name="blocNotas">NoteBook</string>
+    <string name="personas">People</string>
+    <string name="llamar">Call</string>
+    <string name="correo">Email</string>
+    <string name="editar">Edit</string>
+    <string name="EditarPersonas">Edit people</string>
+    <string name="textViewEditar">Click on an image to select it</string>
+    <string name="textViewDatos">Enter the data here:</string>
+    <string name="introducir_correo">Enter the email here</string>
+    <string name="introducir_telefono">Enter the phone number here</string>
+    <string name="act_datos">Update data</string>
+    <string name="confirmacionBoton">" The data has been inserted correctly"</string>
+</resources>
